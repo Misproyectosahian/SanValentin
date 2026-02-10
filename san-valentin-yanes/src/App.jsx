@@ -189,7 +189,7 @@ const Page2 = ({ onNext }) => {
           <div className="distribution-text">
             DISTRIBUCIÓN:<br/>
             EXCLUSIVA PARA LA PERSONA MÁS ESPECIAL<br/>
-            <span className="name-highlight">Amadaluci</span>
+            <span className="name-highlight">Ailyn</span>
           </div>
           
           <div className="love-emoji">💕 love*.</div>
@@ -228,7 +228,7 @@ Y desde lo más sincero de mi corazón, me encantaría que seas mi San Valentín
               </div>
               <div className="coupon">
                 <div className="coupon-title">CUPÓN PARA:</div>
-                <div className="coupon-content">Una noche al cine</div>
+                <div className="coupon-content">Una noche de películas</div>
               </div>
             </div>
             <div className="scissors-line">✂️ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ✂️</div>

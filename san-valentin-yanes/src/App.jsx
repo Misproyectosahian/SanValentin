@@ -208,7 +208,7 @@ Y desde lo más sincero de mi corazón, me encantaría que seas mi San Valentín
               <div className="article-image">
                 <div className="image-placeholder">
                   <video width="100%" height="auto" autoPlay muted loop>
-                    <source src="../VideoValentin.mp4" type="video/mp4" />
+                    <source src="/VideoValentin.mp4" type="video/mp4" />
                     Tu navegador no soporta el elemento de video.
                   </video>
                 </div>

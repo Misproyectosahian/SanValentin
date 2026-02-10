@@ -688,7 +688,7 @@ const Page5 = () => {
               >
                 <div className="locket-outer">
                   <div className="locket-inner">
-                    <span className="locket-letter left">A</span>
+                    <span className="locket-letter left">A+</span>
                     <span className="locket-letter right">Y</span>
                   </div>
                 </div>
